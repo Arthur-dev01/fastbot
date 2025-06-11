@@ -34,8 +34,8 @@ Antes de rodar o projeto, garanta que tenha as seguintes dependências instalada
 
 ## Contribuidores
 
--Flavio Davi
--Arthur Daladier
--Luis   Felipe
--Renan  Pinto
--Thiago Sousa
+- Flavio Davi
+- Arthur Daladier
+- Luis   Felipe
+- Renan  Pinto
+- Thiago Sousa
