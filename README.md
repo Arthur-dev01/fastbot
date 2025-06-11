@@ -34,7 +34,7 @@ Antes de rodar o projeto, garanta que tenha as seguintes dependências instalada
 
 ## Contribuidores
 
-- Flavio Davi https://github.com/flavio-davi
+- [Flavio Davi](https://github.com/flavio-davi)
 - Arthur Daladier 
 - Luis   Felipe
 - Renan  Pinto
