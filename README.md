@@ -44,7 +44,7 @@ Este projeto está sendo desenvolvido por:
 
 ## Contexto Acadêmico 🎓
 
-Este projeto faz parte da disciplina **Engenharia de Software** do **Curso Técnico em Desenvolvimento de Sistemas** do **IFPI** (Instituto Federal do Piauí), ministrada pelo professor **[Osiris Pires Coelho Filho](https://www.abrir.link/ooDva)**. 📚
+Este projeto faz parte da disciplina **Engenharia de Software** do **Curso Técnico em Desenvolvimento de Sistemas** do **IFPI** (Instituto Federal do Piauí), ministrada pelo professor **[Osiris Pires Coelho Filho](https://abrir.link/ooDva)**. 📚
 
 ## Licença 📝
 
