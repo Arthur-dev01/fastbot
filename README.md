@@ -25,19 +25,17 @@ Este projeto implementa um **bot de atendimento via WhatsApp** desenvolvido para
 Antes de rodar o projeto, garanta que tenha as seguintes dependências instaladas:
 
 - **Python 3.8+**
-- **MySQL** (ou MariaDB)
+- **MySQL** 
 - **Baileys**: Biblioteca para interação com o WhatsApp.
 - **FastAPI**: Framework para criação de APIs em Python.
 - **SQLAlchemy**: Biblioteca ORM para Python para facilitar a manipulação do banco de dados MySQL.
 - **Uvicorn**: Servidor ASGI para rodar a API FastAPI.
-- **pip** ou **Poetry**: Para gerenciar pacotes Python.
+- **pip**: Para gerenciar pacotes Python.
 
-## Instalação
+## Contribuidores
 
-### 1. Clonar o Repositório
-
-Primeiro, faça o clone do repositório para sua máquina local:
-
-```bash
-git clone https://github.com/usuario/bot-whatsapp-restaurante.git
-cd bot-whatsapp-restaurante
+-Flavio Davi
+-Arthur Daladier
+-Luis   Felipe
+-Renan  Pinto
+-Thiago Sousa
