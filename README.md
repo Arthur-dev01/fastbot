@@ -39,13 +39,9 @@ bot-whatsapp-restaurante/
 │   ├── schemas/
 │   │   ├── __init__.py
 │   │   └── pedido.py
-│   ├── core/
-│   │   ├── __init__.py
-│   │   └── config.py
 │   └── main.py
 │
 ├── requirements.txt
-├── .env.example
 └── README.md
 
 ```
