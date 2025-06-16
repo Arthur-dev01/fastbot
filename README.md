@@ -24,26 +24,31 @@ Este projeto implementa um **bot de atendimento via WhatsApp** desenvolvido para
 ```plaintext
 bot-whatsapp-restaurante/
 │
+├── .env.example
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── package.json
+├── package-lock.json
+│
 ├── app/
-│   ├── bot/
+│   ├── api/
 │   │   ├── __init__.py
-│   │   ├── client.py
-│   │   └── handlers.py
+│   │   └── routers.py
+│   ├── bot/
+│   │   ├── client.js
+│   │   └── handlers.js
 │   ├── db/
 │   │   ├── __init__.py
 │   │   ├── models.py
 │   │   └── session.py
-│   ├── api/
-│   │   ├── __init__.py
-│   │   └── routers.py
 │   ├── schemas/
 │   │   ├── __init__.py
 │   │   └── pedido.py
 │   └── main.py
 │
-├── requirements.txt
-└── README.md
-
+└── database/                 
+    └── schema.sql            
 ```
 
 ## Requisitos 📦
