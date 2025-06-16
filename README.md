@@ -71,7 +71,7 @@ Este projeto está sendo desenvolvido por:
 - [Flávio Davi](https://github.com/flavio-davi) 🧑‍💻
 - [Arthur Daladier](https://github.com/Arthur-dev01) 🧑‍💻
 - **Luís Felipe** 👨‍💻
-- **Renan Pinto** 👨‍💻
+- [Renan Pinto](https://github.com/renandobet) 👨‍💻
 - [Thiago Sousa](https://github.com/thiago21sousa21) 🧑‍💻
 
 ## Contexto Acadêmico 🎓
