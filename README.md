@@ -24,8 +24,9 @@ Este projeto implementa um **bot de atendimento via WhatsApp** desenvolvido para
 ```plaintext
 bot-whatsapp-restaurante/
 │
-├── .env.example
+├── .env
 ├── .gitignore
+├── LICENSE
 ├── README.md
 ├── requirements.txt
 ├── package.json
