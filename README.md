@@ -20,6 +20,36 @@ Este projeto implementa um **bot de atendimento via WhatsApp** desenvolvido para
 - **Status do Pedido**: Permite que os clientes acompanhem o status do seu pedido em tempo real.
 - **Informações do Restaurante**: O bot fornece informações como endereço, horário de funcionamento, formas de pagamento e mais.
 
+## Estrutura 🧱
+```plaintext
+bot-whatsapp-restaurante/
+│
+├── app/
+│   ├── bot/
+│   │   ├── __init__.py
+│   │   ├── client.py
+│   │   └── handlers.py
+│   ├── db/
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   └── session.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   └── routers.py
+│   ├── schemas/
+│   │   ├── __init__.py
+│   │   └── pedido.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   └── config.py
+│   └── main.py
+│
+├── requirements.txt
+├── .env.example
+└── README.md
+
+```
+
 ## Requisitos 📦
 
 Antes de rodar o projeto, garanta que tenha as seguintes dependências instaladas:
